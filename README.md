@@ -56,37 +56,36 @@
 
 ## 📊 Profile Statistics
 
- <div align=center>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RiverFlow96&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_[...]
+![](https://github-readme-stats.vercel.app/api?username=RiverFlow96&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true)
 <br>
 
 </div>
  
- ### 💳 Github Profile Summary Card
+### 💳 Github Profile Summary Card
  
- <div align=center>
+<div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiverFlow96&theme=github_dark)
   
- </div>
+</div>
  
- ### ⏱ Streak Stats
+### ⏱ Streak Stats
  
- <div align=center>
+<div align="center">
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RiverFlow96&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNum[...]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RiverFlow96&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=95CCFF)](https://git.io/streak-stats)
 
- </div>
+</div>
  
- ### 📈 Activity Graph
+### 📈 Activity Graph
  
- [![RiverFlow96 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RiverFlow96&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RiverFlow96 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RiverFlow96&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
- <div align=center>
+<div align="center">
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=RiverFlow96&show_icons=true&locale=en&layout=compact&theme=radical)]()  
- 
-
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=RiverFlow96&show_icons=true&locale=en&layout=compact&theme=radical)]()
+</div>
