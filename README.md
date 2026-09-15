@@ -24,6 +24,15 @@
   </a>
 </p>
 
+#### 🤖 AI Agents
+<p align="left">
+  <img src="https://img.shields.io/badge/ADE%20Orca-5A3E85?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude--Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-0969DA?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=codacy&logoColor=white" />
+</p>
+
 #### 💻 Operative Systems
 <p align="left">
   <a href="https://skillicons.dev">
@@ -49,7 +58,7 @@
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=RiverFlow96&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=RiverFlow96&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_[...]
 <br>
 
 </div>
@@ -66,7 +75,7 @@
  
  <div align=center>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RiverFlow96&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RiverFlow96&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNum[...]
 
  </div>
  
